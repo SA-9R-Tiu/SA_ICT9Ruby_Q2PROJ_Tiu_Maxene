@@ -1,0 +1,23 @@
+body{
+	background-image: url(aboutbgg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-position: top;
+    
+}
+
+h1{
+	background-color: #f7c7db;
+	text-align: center;
+
+}
+
+.container{
+	background-color: #ffc4e3;
+	text-align: center;
+	padding: 20px;
+	box-shadow: -1px 14px 54px 45px rgba(190,125,172,0.48);
+-webkit-box-shadow: -1px 14px 54px 45px rgba(190,125,172,0.48);
+-moz-box-shadow: -1px 14px 54px 45px rgba(190,125,172,0.48);
+
+}
